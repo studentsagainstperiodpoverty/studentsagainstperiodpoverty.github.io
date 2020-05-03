@@ -1116,10 +1116,17 @@ section.lazy-placeholder:after {
 .cid-rXSQ1FmLkk {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/josefin-aed9rphm2ia-unsplash-2000x1187.jpg");
 }
 .cid-rXSQ1FmLkk P {
   color: #767676;
+}
+.cid-rXSQ1FmLkk H1 {
+  color: #ffffff;
+}
+.cid-rXSQ1FmLkk .mbr-text,
+.cid-rXSQ1FmLkk .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-rXSQ2B3q49 {
   padding-top: 90px;
@@ -1162,7 +1169,7 @@ section.lazy-placeholder:after {
   background: #efefef;
 }
 .cid-rXSRTPtwFp {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -1202,8 +1209,8 @@ section.lazy-placeholder:after {
   background: #efefef;
 }
 .cid-rXSRU8l7Lq {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-rXSRU8l7Lq .mbr-section-subtitle {
@@ -1243,14 +1250,14 @@ section.lazy-placeholder:after {
 }
 .cid-rXSQ3zmkAh {
   padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/the-female-company-z3wfx9qzx8u-unsplash-2000x2000.jpg");
 }
 .cid-rXSQ3zmkAh .title {
   margin-bottom: 2rem;
 }
 .cid-rXSQ3zmkAh .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
 }
 .cid-rXSQ3zmkAh a:not([href]):not([tabindex]) {
   color: #fff;
@@ -1264,6 +1271,10 @@ section.lazy-placeholder:after {
 }
 .cid-rXSQ3zmkAh LABEL {
   text-align: right;
+  color: #ffffff;
+}
+.cid-rXSQ3zmkAh H2 {
+  color: #ffffff;
 }
 .cid-rXO5XHh8yb {
   padding-top: 30px;
